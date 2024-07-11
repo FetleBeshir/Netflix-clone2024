@@ -2,8 +2,8 @@
 
 :root {
   --font-base: 'Lexend', sans-serif;;
-  --font-second-base: 'Inter' sans-serif;
-  --bg-color: #111;
+  --font-second-base: 'Inter', sans-serif;
+  --bg-color:#111;
   --primary-color: #ffffff;
   --secondary-color: #e50914;
 }
@@ -14,4 +14,7 @@
 }
 body {
   background: #111;
+  color: #ffffff;
 }
+
+

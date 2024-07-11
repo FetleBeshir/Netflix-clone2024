@@ -22,6 +22,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  /* background-color: yellow; */
 }
 .header_left ul {
   width: 140%;
@@ -38,5 +39,7 @@
   justify-content: space-around;
   list-style: none;
   cursor: pointer;
-  /* background-color: lightblue; */
+  /* background-color: lightgreen; */
 }
+
+
